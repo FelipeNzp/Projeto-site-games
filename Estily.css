@@ -64,7 +64,9 @@ button {
     font-weight: bold;
     width: 174px;
     cursor: pointer;
-    color: #ffffff
+    color: #ffffff;
+    margin-left: 50%;
+    margin-bottom:50px;
 }
 
 button:Hover {
